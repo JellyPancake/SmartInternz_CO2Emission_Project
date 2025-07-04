@@ -2,3 +2,10 @@
 .idea/
 ML_Outputs.pages
 .DS_Store
+SampleTemplate_Insurance_Fraud_Detection_using_Machine_Learning_.pdf
+artifacts/
+co2_model_light.pkl
+co2_model_light_new.pkl
+co2_model_light_old.pkl
+co2pynbfile.py
+Preprocessing.py
